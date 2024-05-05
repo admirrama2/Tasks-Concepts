@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 //write a concept that checks if the  value can be printed  
-//and use that concept in function that prints elements of a vector
+//and use that concept in the function PrintVector that prints elements of a vector
  
 
 int main() {
