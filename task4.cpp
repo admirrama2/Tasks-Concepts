@@ -3,8 +3,8 @@
 #include <algorithm>
 #include <concepts>
 
-//Create a template that use's a already existant concept that chekcs if a value is comperable to  a string
-//Use the template to write a function arePermutations that checks if two words are permutaions of eachother
+//Create a template that use's an already existent concept that checks if a value is comparable to  a string
+//Use the template to write a function arePermutations that checks if two words are permutations of eachother
 
 
 int main() {
