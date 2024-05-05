@@ -6,7 +6,7 @@
 
 template<typename T>
 //Create a concept that checks if two values are comperable(<,==,> etc.)
-//Use the concept to crete a template and use it to create a simple function areComperable that prints a message if they are comperable
+//Use the concept to create a template and use it to create a simple function areComperable that prints a message if they are comparable
 
 
 int main() {
